@@ -5,7 +5,7 @@ This project is testing a Feed Reader using the Jasmine framework. No build tool
 
 ## How to run it?
 
-* Pull or download the project and then open the file `index.html` in your browser, and the tests should automatically run.
+* `git clone` or download the project and then open the file `index.html` in your browser, and the tests should automatically run.
 * You will see whether the tests passed or failed at the bottom of the page.
 
 
